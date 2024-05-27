@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\bin\Debug\net8.0\ClassTask4(Arrays).exe
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\bin\Debug\net8.0\ClassTask4(Arrays).deps.json
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\bin\Debug\net8.0\ClassTask4(Arrays).runtimeconfig.json
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\bin\Debug\net8.0\ClassTask4(Arrays).dll
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\bin\Debug\net8.0\ClassTask4(Arrays).pdb
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).AssemblyInfo.cs
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).dll
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\refint\ClassTask4(Arrays).dll
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).pdb
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ClassTask4(Arrays).genruntimeconfig.cache
+C:\Users\hasan\source\repos\ClassTask4(Arrays)\ClassTask4(Arrays)\obj\Debug\net8.0\ref\ClassTask4(Arrays).dll
