@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\LabTask2\LabTask2\bin\Debug\net8.0\LabTask2.exe
+C:\Users\hasan\source\repos\LabTask2\LabTask2\bin\Debug\net8.0\LabTask2.deps.json
+C:\Users\hasan\source\repos\LabTask2\LabTask2\bin\Debug\net8.0\LabTask2.runtimeconfig.json
+C:\Users\hasan\source\repos\LabTask2\LabTask2\bin\Debug\net8.0\LabTask2.dll
+C:\Users\hasan\source\repos\LabTask2\LabTask2\bin\Debug\net8.0\LabTask2.pdb
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.AssemblyInfo.cs
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.dll
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\refint\LabTask2.dll
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.pdb
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\LabTask2.genruntimeconfig.cache
+C:\Users\hasan\source\repos\LabTask2\LabTask2\obj\Debug\net8.0\ref\LabTask2.dll
