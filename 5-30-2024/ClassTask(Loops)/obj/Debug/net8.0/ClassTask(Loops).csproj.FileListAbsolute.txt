@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\bin\Debug\net8.0\ClassTask(Loops).exe
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\bin\Debug\net8.0\ClassTask(Loops).deps.json
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\bin\Debug\net8.0\ClassTask(Loops).runtimeconfig.json
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\bin\Debug\net8.0\ClassTask(Loops).dll
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\bin\Debug\net8.0\ClassTask(Loops).pdb
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).AssemblyInfo.cs
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).dll
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\refint\ClassTask(Loops).dll
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).pdb
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ClassTask(Loops).genruntimeconfig.cache
+C:\Users\hasan\source\repos\ClassTask(Loops)\ClassTask(Loops)\obj\Debug\net8.0\ref\ClassTask(Loops).dll
