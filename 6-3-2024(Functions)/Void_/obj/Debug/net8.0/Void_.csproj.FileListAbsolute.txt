@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Functions\Void_\bin\Debug\net8.0\Void_.exe
+C:\Users\hasan\source\repos\Functions\Void_\bin\Debug\net8.0\Void_.deps.json
+C:\Users\hasan\source\repos\Functions\Void_\bin\Debug\net8.0\Void_.runtimeconfig.json
+C:\Users\hasan\source\repos\Functions\Void_\bin\Debug\net8.0\Void_.dll
+C:\Users\hasan\source\repos\Functions\Void_\bin\Debug\net8.0\Void_.pdb
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.dll
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\refint\Void_.dll
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.pdb
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\Void_.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Functions\Void_\obj\Debug\net8.0\ref\Void_.dll
