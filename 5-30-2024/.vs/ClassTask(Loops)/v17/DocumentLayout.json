@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\",
+  "WorkspaceRootPath": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44921E90-2304-4904-A745-31F5CAE38133}|ClassTask(Loops)\\ClassTask(Loops).csproj|c:\\users\\hasan\\source\\repos\\classtask(loops)\\classtask(loops)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44921E90-2304-4904-A745-31F5CAE38133}|ClassTask(Loops)\\ClassTask(Loops).csproj|c:\\users\\hasan\\desktop\\classtasks\\5-30-2024\\classtask(loops)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44921E90-2304-4904-A745-31F5CAE38133}|ClassTask(Loops)\\ClassTask(Loops).csproj|solutionrelative:classtask(loops)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -80,11 +80,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\Program.cs",
               "RelativeDocumentMoniker": "ClassTask(Loops)\\Program.cs",
-              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\Program.cs",
               "RelativeToolTip": "ClassTask(Loops)\\Program.cs",
-              "ViewState": "AQIAACUBAAAAAAAAAAAIwEoBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T07:47:36.571Z",
               "EditorCaption": ""

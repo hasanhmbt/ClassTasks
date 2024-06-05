@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\ClassTask(Loops).csproj": {}
+    "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\ClassTask(Loops).csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\ClassTask(Loops).csproj": {
+    "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\ClassTask(Loops).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\ClassTask(Loops).csproj",
+        "projectUniqueName": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\ClassTask(Loops).csproj",
         "projectName": "ClassTask(Loops)",
-        "projectPath": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\ClassTask(Loops).csproj",
+        "projectPath": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\ClassTask(Loops).csproj",
         "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan\\source\\repos\\ClassTask(Loops)\\ClassTask(Loops)\\obj\\",
+        "outputPath": "C:\\Users\\hasan\\Desktop\\ClassTasks\\5-30-2024\\ClassTask(Loops)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

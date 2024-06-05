@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics.Metrics;
+using System.Drawing;
 using System.Numerics;
 using System.Xml.Linq;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -13,13 +14,17 @@ namespace ClassTask_Loops_
         {
             /*   DigitsOfNumber();
                  Task1();
+                 Task2();
                  Task3();
                  Task4();
                  Task5();
                  FindRandomNumber();
                  Task7();
+                 Task8();
             */
-            Task8();
+                 Task9();
+
+
 
         }
 
@@ -324,16 +329,68 @@ namespace ClassTask_Loops_
 
         }
 
+
+        //1-49 random unique numbers
+        static void Task9()
+        {
+            Console.Write("Enter number between 1-6: ");
+            int sizeOfArray = 0;
+            while (true)
+            {
+                if (Int32.TryParse(Console.ReadLine(), out sizeOfArray) && sizeOfArray >= 1 && sizeOfArray <= 6)
+                    break;
+                else
+                    Console.WriteLine("Dimension must be between 1-6!");
+            }
+
+            Random random = new Random();
+            int lineNums = 0;
+            int[] randomNumbers;
+            int count = 0;
+            int newRandom;
+            bool isUnique;
+            while (lineNums < sizeOfArray)
+            {
+                randomNumbers = new int[sizeOfArray];
+                count = 0;
+
+                while (count < sizeOfArray)
+                {
+                      newRandom = random.Next(1, 50);
+                      isUnique = true;
+
+                    int i = 0;
+                    while (i < count)
+                    {
+                        if (randomNumbers[i] == newRandom)
+                        {
+                            isUnique = false;
+                            break;
+                        }
+                        i++;
+                    }
+
+                    if (isUnique)
+                    {
+                        randomNumbers[count] = newRandom;
+                        count++;
+                    }
+                }
+
+                Console.Write($"{++lineNums}) ");
+                int j = 0;
+                while (j < sizeOfArray)
+                {
+                    Console.Write($"{randomNumbers[j]} ");
+                    j++;
+                }
+                Console.WriteLine();
+
+            }
+        }
+
+
     }
-
-
-
-
-
-
-
-
- 
 }
 
 

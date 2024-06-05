@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassTask(Loops)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb1efbdfc43c006dc476c77a1872437d4ed71e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassTask(Loops)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassTask(Loops)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
