@@ -10,38 +10,8 @@ namespace Void_
 {
     internal class Program
     {
-
-        /* SqlConnection con = new SqlConnection();
-        con.ConnectionString = "Server=.;Database=Northwind;Integrated Security=true;";
-        SqlCommand cmd = new SqlCommand();
-        cmd.Connection = con;
-        cmd.CommandText = "SELECT * FROM ?";
-        con.Open();
-        SqlDataReader dr = cmd.ExecuteReader();
-        while (dr.Read())
-        {
-        Console.WriteLine(dr["?"]);
-        }
-        
-        */
-
-
-
         static void Main(string[] args)
         {
-
-
-            //string name = Console.ReadLine();
-            //string surname = Console.ReadLine();
-            //string domain = Console.ReadLine();
-
-            //Method4(name, surname, domain);
-
-            //ConvertToUpperCase("Test");
-
-            //ChangeTheSymb("hello@",'@','!');
-
-            //ConvertToCapitalLetter("test");
 
             Console.Write("Enter first name:");
             string firstName = Console.ReadLine();
@@ -50,7 +20,13 @@ namespace Void_
             Console.Write("Enter domain :");
             string domain = Console.ReadLine();
 
-            CreateMail(firstName,lastName,domain);
+           // CreateMail(firstName,lastName,domain);
+
+
+            //Method4(name, surname, domain);
+            //ConvertToUpperCase("Test");
+            //ChangeTheSymb("hello@",'@','!');
+            //ConvertToCapitalLetter("test");
 
         }
 
@@ -58,52 +34,7 @@ namespace Void_
 
 
 
-
-        public static void Mehtod2()
-        {
-
-            for (int i = 2; i < 1000; i += 2)
-            {
-                Console.WriteLine(i);
-
-            }
-
-        }
-
-
-        private static void Method3()
-        {
-            for (int i = 1; i <= 1000; i += 2)
-            {
-                Console.WriteLine(i);
-            }
-
-
-            //forr + tab
-
-            for (int i = 1000 - 1; i >= 0; i--)
-            {
-                Console.WriteLine(i);
-            }
-        }
-
-
-
-
-        private static void Method4(string name, string surname, string? domain = "Gmail.com")
-        {
-
-            // string mail = $"{name.ToLower()}.{surname.ToUpper()}.";
-
-        }
-
-
-
-
-
-
-
-
+        // Custom .ToUpper method.
         public static string ConvertToUpperCase(string str)
         {
             char[] chars = new char[str.Length];
@@ -117,14 +48,12 @@ namespace Void_
 
             }
             string newStr = new string(chars);
-
-            //Console.WriteLine(upperStr);
             return newStr;
 
         }
 
 
-
+        // Custom .Replace method.
         public static string ChangeTheSymb(string str, char oldSymb, char newSymb)
         {
 
@@ -141,12 +70,12 @@ namespace Void_
             }
 
             string newStr = new string(chars);
-            //Console.WriteLine(newStr);
             return newStr;
 
         }
 
 
+        // Custom .ToTitle method.
         public static string ConvertToCapitalLetter(string str)
         {
             char[] chars = new char[str.Length];
@@ -163,7 +92,6 @@ namespace Void_
             }
 
             string newStr = new string(chars);
-            //Console.WriteLine(newStr);
             return newStr;
         }
 
@@ -171,11 +99,8 @@ namespace Void_
 
         private static void CreateMail(string firstName, string lastName, string? domain = "code.edu.az")
         {
-
             string mail = $"{ConvertToCapitalLetter(firstName)}.{ConvertToUpperCase(lastName)}@{ChangeTheSymb(domain,'!',' ')}";
-
             Console.WriteLine(mail);
-
         }
 
     }
