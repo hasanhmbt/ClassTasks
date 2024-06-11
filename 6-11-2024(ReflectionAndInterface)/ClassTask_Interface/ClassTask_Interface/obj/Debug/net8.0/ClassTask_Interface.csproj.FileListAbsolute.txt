@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\bin\Debug\net8.0\ClassTask_Interface.exe
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\bin\Debug\net8.0\ClassTask_Interface.deps.json
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\bin\Debug\net8.0\ClassTask_Interface.runtimeconfig.json
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\bin\Debug\net8.0\ClassTask_Interface.dll
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\bin\Debug\net8.0\ClassTask_Interface.pdb
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.AssemblyInfo.cs
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.dll
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\refint\ClassTask_Interface.dll
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.pdb
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ClassTask_Interface.genruntimeconfig.cache
+C:\Users\hasan\source\repos\ClassTask_Interface\ClassTask_Interface\obj\Debug\net8.0\ref\ClassTask_Interface.dll
