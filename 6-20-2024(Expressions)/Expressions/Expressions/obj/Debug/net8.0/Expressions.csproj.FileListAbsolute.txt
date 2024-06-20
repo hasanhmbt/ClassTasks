@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Expressions\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Users\hasan\source\repos\Expressions\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Users\hasan\source\repos\Expressions\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Users\hasan\source\repos\Expressions\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Users\hasan\source\repos\Expressions\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Expressions\Expressions\obj\Debug\net8.0\ref\Expressions.dll
