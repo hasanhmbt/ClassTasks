@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GunSimulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95efdf0a28c87da5ce85072613b76c25a2054b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GunSimulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GunSimulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

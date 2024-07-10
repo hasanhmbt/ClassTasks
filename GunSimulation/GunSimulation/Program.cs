@@ -4,15 +4,18 @@ using System.Transactions;
 
 namespace GunSimulation;
 
-class Program
+public class Program
 {
 
     public static void Main(string[] args)
     {
+        Gun gun = new Gun();
 
-        string gunType = Gun._gunType;
-        int gunCapacity = Gun._gunCapacity;
-        int currentBulletCount = Gun._currnetBulletCount;
+
+        string gunType;
+        int gunCapacity;
+        int currentBulletCount;
+        int time;
 
         Console.Write("Enter gun type:");
         gunType = Console.ReadLine();
@@ -21,18 +24,30 @@ class Program
         Console.Write("Enter bullet count:");
         currentBulletCount = Int32.Parse(Console.ReadLine());
 
+        gun._gunCapacity = gunCapacity;
+        gun._currnetBulletCount = currentBulletCount;
+        gun._gunType = gunType;
+
+
         Console.WriteLine("\n\nSelect fire mode:\n1.Autofire\n2.Singlefire");
         int mode = Int32.Parse(Console.ReadLine());
 
 
-        string result = mode switch
+        switch (mode)
         {
-            1 => Gun.AutoFire(3),
-            2 => Gun.SingleFire(currentBulletCount, gunCapacity),
-            3 => "Choose valid option."
-
-        };
-
+            case 1:
+                Console.Write("Enter time:");
+                time = Int32.Parse(Console.ReadLine());
+                gun.AutoFire(time);
+                break;
+            case 2:
+                gun.SingleFire(currentBulletCount, gunCapacity);
+                break;
+            default:
+                Console.WriteLine("Select valid option.");
+                Main(null);
+                break;
+        }
 
 
     }
@@ -47,62 +62,57 @@ class Program
 public class Gun
 {
 
-    public static string _gunType;
-    public static int _gunCapacity;
-    public static int _currnetBulletCount;
-    public static int _time;
+    public string _gunType;
+    public int _gunCapacity;
+    public int GunCapacity { get => _gunCapacity; set => _gunCapacity = value; }
+    public int _currnetBulletCount;
+    public int CurrnetBulletCount { get => _currnetBulletCount; set => _currnetBulletCount = value; }
+    public int _time;
+    public int Time { get => _time; set => _time = value; }
 
 
-    public static void AutoFire(int time)
+    public void AutoFire(int time)
     {
 
         _time = time;
 
 
-        if (_currnetBulletCount < _gunCapacity && _currnetBulletCount >= 0)
+        if (CurrnetBulletCount < GunCapacity && CurrnetBulletCount >= 0)
         {
             while (time > 0)
             {
-                _currnetBulletCount--;
-                Console.WriteLine(_currnetBulletCount);
+                CurrnetBulletCount--;
+                Console.Write(CurrnetBulletCount + ",");
                 time--;
             }
-            Console.WriteLine($"Current bullet count in magazine:{_currnetBulletCount}");
+            Console.WriteLine($"Current bullet count in magazine:{CurrnetBulletCount}");
         }
         else
         {
-            Console.WriteLine("This gun Can't take this much bullets. Use count for gun capacity or less.");
-            Program.Main(null);
+            Console.WriteLine("This gun Can't take this much shots. Use valid numbers.");
         }
-
 
     }
 
 
 
-
-
-
-
-    public static void SingleFire(int currnetBulletCount, int GunCapacity)
+    public void SingleFire(int currnetBulletCount, int GunCapacityForSingle)
     {
-        _currnetBulletCount = currnetBulletCount;
-        _gunCapacity = GunCapacity;
+        CurrnetBulletCount = currnetBulletCount;
+        GunCapacity = GunCapacityForSingle;
 
 
-        if (_currnetBulletCount < _gunCapacity)
+        if (CurrnetBulletCount < GunCapacity)
         {
 
-            _currnetBulletCount--;
-            Console.WriteLine($"Current bullet count in magazine:{_currnetBulletCount}");
+            CurrnetBulletCount--;
+            Console.WriteLine($"Current bullet count in magazine:{CurrnetBulletCount}");
         }
         else
         {
             Console.WriteLine("This gun Can't take this much bullets. Use count for gun capacity or less.");
             Program.Main(null);
         }
-
-
 
 
 
