@@ -1,0 +1,15 @@
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\bin\Debug\net7.0\GunSimulation.exe
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\bin\Debug\net7.0\GunSimulation.deps.json
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\bin\Debug\net7.0\GunSimulation.runtimeconfig.json
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\bin\Debug\net7.0\GunSimulation.dll
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\bin\Debug\net7.0\GunSimulation.pdb
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.csproj.AssemblyReference.cache
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.AssemblyInfoInputs.cache
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.AssemblyInfo.cs
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.csproj.CoreCompileInputs.cache
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.dll
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\refint\GunSimulation.dll
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.pdb
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\GunSimulation.genruntimeconfig.cache
+C:\Users\hasanrhu\source\repos\GunSimulation\GunSimulation\obj\Debug\net7.0\ref\GunSimulation.dll
