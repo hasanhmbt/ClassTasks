@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hasanrhu\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem\\RestaurantOrderSystem.csproj",
+      "projectUniqueName": "C:\\Users\\hasanrhu\\source\\repos\\ClassTasks\\RestaurantOrderSystem\\RestaurantOrderSystem\\RestaurantOrderSystem.csproj",
       "projectName": "RestaurantOrderSystem",
-      "projectPath": "C:\\Users\\hasanrhu\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem\\RestaurantOrderSystem.csproj",
+      "projectPath": "C:\\Users\\hasanrhu\\source\\repos\\ClassTasks\\RestaurantOrderSystem\\RestaurantOrderSystem\\RestaurantOrderSystem.csproj",
       "packagesPath": "C:\\Users\\hasanrhu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hasanrhu\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem\\obj\\",
+      "outputPath": "C:\\Users\\hasanrhu\\source\\repos\\ClassTasks\\RestaurantOrderSystem\\RestaurantOrderSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

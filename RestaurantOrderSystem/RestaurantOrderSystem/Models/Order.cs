@@ -11,14 +11,14 @@ public class Order
 
     public int Id { get; set; }
     public List<Dish>? Dishes { get; set; }
-    public double TotalAmount { get; set; }
-
-    public Order(int id, List<Dish> dishes, double totalAmount)
+   // public decimal TotalAmount { get { return Dishes.CalculateTotalPrice(); } }
+    public decimal TotalAmount  => Dishes.CalculateTotalPrice(); 
+    public Order(int id)
     {
         Id = id;
-        Dishes = dishes;
-        TotalAmount = totalAmount;
+        Dishes = new List<Dish>();
     }
 
+     
 
 }
