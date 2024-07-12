@@ -1,6 +1,6 @@
 ﻿namespace RestaurantOrderSystem.Models;
 
-internal class Restaurant
+internal class Restaurant:BaseEntites
 {
 
     public string Name { get; set; }
@@ -16,11 +16,6 @@ internal class Restaurant
         Menu = new List<Dish>();
         Orders = new List<Order>();
     }
-
-
-    public Order? FindOrderById(int orderId) => Orders.Find(order => order.Id == orderId);
-    public void AddDish(Dish dish) => Menu.Add(dish);
-    public void PlaceOrder(Order order) => Orders.Add(order);
 
 
 }

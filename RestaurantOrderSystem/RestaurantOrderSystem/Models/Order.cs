@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace RestaurantOrderSystem.Models;
 
-public class Order
+public class Order:BaseEntites
 {
-
-    public int Id { get; set; }
     public List<Dish>? Dishes { get; set; }
    // public decimal TotalAmount { get { return Dishes.CalculateTotalPrice(); } }
     public decimal TotalAmount  => Dishes.CalculateTotalPrice(); 
@@ -18,7 +16,4 @@ public class Order
         Id = id;
         Dishes = new List<Dish>();
     }
-
-     
-
 }
